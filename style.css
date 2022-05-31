@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+	transition: all ease-in-out 500ms;
+	font-family: sans-serif;
+}
+.contactosSup{
+	display: flex;
+	align-content: space-between;
+	position: absolute;
+	color: white;
+}
+
+.contactosSup i{
+	margin-left: 20px;
+	margin-top: 20px;
+	display: flex;
+	align-content: space-between;
+	color: white;
+	font-size: 30px;
+}
+
+.contactosSup:hover{
+	font-size: 21px;
+	color: #ddd;
+	transition: all ease-in-out 500ms;
+	cursor: pointer;
+}
+
+.logo img{
+	width: 150px;
+	height: 100px;
+	position: absolute;
+	padding: 20px;
+	top: 60px;
+}
+
+.fundo {
+	background-image: url(https://scontent.flad2-1.fna.fbcdn.net/v/t39.30808-6/283787143_761873131857356_3771232383973513974_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeEVR5xOgJ-ppLBaL_CmIznpFsaqF-dm5H0WxqoX52bkfX4IZIco9gxl_83JheeUlMmnBd-6fCeKY2oJJYL_BjIz&_nc_ohc=rKAGzzmmBJYAX8OGcAL&_nc_ht=scontent.flad2-1.fna&oh=00_AT_tXS4VBBSwWLKo-Tk52xDqSYN0DfBjSAq9j490uMu3DQ&oe=629BAF0C);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	
+}
+
+.menu{
+
+	width: 100%;
+	color: #fff;
+	
+	
+	}
+
+.menu ul{
+	
+	float: right;
+	
+}
+
+.menu li{
+
+	list-style: none;
+	display: inline-flex;
+	align-content: space-between;
+	padding: 20px;
+}
+
+.menu li:hover{
+	padding: 25px;
+	cursor: pointer;
+	transition: all ease-in-out 200ms;
+	color: #484848;
+	display: block;
+	font-size: 15px;
+}
+
+
+
