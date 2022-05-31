@@ -1,2 +1,2 @@
-# Bem-Viver---Site
+# BemViver
 desenvolvimento do Web site da bem viver em html, css, js
